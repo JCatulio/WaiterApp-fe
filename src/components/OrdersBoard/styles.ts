@@ -15,7 +15,6 @@ export const Board = styled.div`
     display: flex;
     align-items: center;
     gap: 8px;
-    flex: 1;
   }
 `;
 
